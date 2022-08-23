@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2022-08-22
+*/
+
 // SPDX-License-Identifier: MIT
                                                                                         
 /***
@@ -789,7 +793,7 @@ contract LIONPresale is ReentrancyGuard {
 	// Amount of DAI received in presale
 	uint256 busdReceived = 0;
 
-    uint256 HardCap = 10 * 10 ** 18; // $10
+    uint256 HardCap = 300000 * 10 ** 18; // $300,000
 
     uint256 public mincontributionLimit = 0;
     uint256 public maxcontributionLimit = 0;
